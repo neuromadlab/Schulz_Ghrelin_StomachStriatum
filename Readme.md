@@ -3,7 +3,7 @@
 
 This project investigates the influence of intravenous infusions of the stomach-derived peptide acyl ghrelin on human motivation and its role as a neuromodulator - affecting functional connectivity and dopamine responses, using simultanous [C11]raclopride PET-fMRI during infusions of ghrelin vs. saline. 
 
-This project code accompanies [this paper]
+This project code accompanies [[this paper](https://www.biorxiv.org/content/10.64898/2025.12.04.691596v1)]
 If you use code or data from this repository please cite the original publication. 
 
 
